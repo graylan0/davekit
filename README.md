@@ -73,4 +73,4 @@ different levels. If you use Qiskit, please cite as per the included
 
 ## License
 
-[Apache License 2.0](LICENSE.txt)
+[GPL2](LICENSE.txt)
